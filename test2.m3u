@@ -1,269 +1,180 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/np.xml"
-
 #EXTINF:-1 tvg-id="1121" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/himalaya-premium-1.jpg" group-title="FIFA WorldCup", Himalaya PREMIUM 1
 http://103.41.175.154:8081/livesports/HimPrem/playlist.m3u8
-
 #EXTINF:-1 tvg-id="234" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/kantipur-tv-hd_5e806ce82d1e9.png" group-title="HD", Kantipur TV HD
 http://103.41.175.154:8081/viatv/viakantipuriptv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1010" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/ap1-hd.png" group-title="HD", AP1 HD
 http://103.41.175.154:8081/viatv/viaap1hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1011" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/himalaya-tv-hd.png" group-title="HD", Himalaya TV HD
 http://103.41.175.154:8081/viatv/viahimalaya/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1012" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/nepal-tv-hd.png" group-title="HD", Nepal TV HD
 http://103.41.175.154:8081/viatv/viantvnepal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1101" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/ntv-news-hd.png" group-title="HD", NTV NEWS HD
 http://103.41.175.154:8081/viatv/viantvnews/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1102" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/ntv-plus-hd.png" group-title="HD", NTV Plus HD
 http://103.41.175.154:8081/viatv/viantvplus/playlist.m3u8
-
 #EXTINF:-1 tvg-id="844" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/prime-hd_62a1d90567ac8.png" group-title="HD", Prime HD
 http://103.41.175.154:8081/viatv/viaprimetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="979" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/makalu-tv-hd.jpg" group-title="HD", Makalu TV HD
 http://103.41.175.154:8081/viatv/viaMakaluTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="396" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/janata-tv.png" group-title="HD", Janata TV
 http://103.41.175.154:8081/viatv/viajantatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1034" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/galaxy-tv.png" group-title="HD", Galaxy 4K
 http://103.41.175.154:8081/viatv/viaGalaxyTv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1027" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/kantipur-cineplex-hd.PNG" group-title="HD", Kantipur Cineplex HD
 http://103.41.175.154:8081/viatv/viaKntCineplexTv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="955" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/me-tv-hd.jpg" group-title="HD", Me TV HD
 http://103.41.175.154:8081/viatv/viaMeTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="941" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/ntv-itahari-hd.jpg" group-title="HD", NTV Itahari HD
 http://103.41.175.154:8081/viatv/viaNTVitahari.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="658" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/ntv-kohalpur-hd_5e8074a980f15.png" group-title="HD", NTV KOHALPUR HD
 http://103.41.175.154:8081/viatv/viantvkohalpur/playlist.m3u8
-
 #EXTINF:-1 tvg-id="663" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/yoho-tv-hd.png" group-title="HD", Yoho TV HD
 http://103.41.175.154:8081/viatv/viayohotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="261" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/image-channel_5e805fa331605.png" group-title="HD", Image Channel HD
 http://103.41.175.154:8081/viatv/viaimage/playlist.m3u8
-
 #EXTINF:-1 tvg-id="936" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/bm-hd.png" group-title="HD", BM HD
 http://103.41.175.154:8081/viatv/viabm1500/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1018" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/bodhi-hd.png" group-title="HD", Bodhi TV HD
 http://103.41.175.154:8081/viatv/viabodhi/playlist.m3u8
-
 #EXTINF:-1 tvg-id="949" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/krishi-tv-hd.png" group-title="HD", Krishi TV HD
 http://103.41.175.154:8081/viatv/viakrishifallback/playlist.m3u8
-
 #EXTINF:-1 tvg-id="662" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/kalika_5e806cc8f3873.png" group-title="HD", Kalika HD
 http://103.41.175.154:8081/viatv/viakalikatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="664" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/nice-television-hd.png" group-title="HD", NICE TELEVISION HD
 http://103.41.175.154:8081/viatv/vianicetelevison/playlist.m3u8
-
 #EXTINF:-1 tvg-id="523" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/life-ok-nepal_5e806d32148be.png" group-title="HD", Life OK Nepal HD
 http://103.41.175.154:8081/viatv/vialifeoknepal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="817" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/universal-tv-hd_6262bda89a287.jpg" group-title="HD", Universal TV HD
 http://103.41.175.154:8081/viatv/viaaranikotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="815" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/osn_6009159e72569.png" group-title="HD", Everest Television HD
 http://103.41.175.154:8081/viatv/viaosnnepal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="665" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/mithila-tv-hd_5e806e1b1c61f.png" group-title="HD", Mithila TV HD
 http://103.41.175.154:8081/viatv/viamithilatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="603" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/deuti-tv-hd_5e80554110f22.png" group-title="HD", Deuti TV HD
 http://103.41.175.154:8081/viatv/viadeuti-hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="812" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/kisan-tv_5e6daff12d4b8.png" group-title="HD", Kisan TV HD
 http://103.41.175.154:8081/viatv/viakisantv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="674" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/paryawaran-tv-hd_62b40c2fd6131.jpg" group-title="HD", Paryawaran TV HD
 http://103.41.175.154:8081/viatv/viaparyawarantv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="667" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/rajya-television_5e807737f39ca.png" group-title="HD", Rajya Television HD
 http://103.41.175.154:8081/viatv/viarajya4k/playlist.m3u8
-
 #EXTINF:-1 tvg-id="957" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/xray-tv-hd_605dc4761edaa.png" group-title="HD", Araniko TV
 http://103.41.175.154:8081/viatv/viaXrayTvHD.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="958" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/capital-tv-hd.jpg" group-title="HD", Capital Tv HD
 http://103.41.175.154:8081/viatv/viaCapitalTvHD.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="964" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/national-gold.jpg" group-title="HD", National Gold
 http://103.41.175.154:8081/viatv/viaNationalGoldTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="976" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/global-television-hd.png" group-title="HD", Global Television HD
 http://103.41.175.154:8081/viatv/viaGlobalTv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1026" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/jansanchar-television-hd_6066a834c00a9.png" group-title="HD", Jansanchar Television HD
 http://103.41.175.154:8081/viatv/viaJanaSancharHD.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="939" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/bagmati-tv-hd.jpg" group-title="HD", Bagmati TV HD
 http://103.41.175.154:8081/viatv/viaBagmatiTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="831" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/fewa-tv-hd_5e805a16ac2ae.png" group-title="HD", Fewa TV HD
 http://103.41.175.154:8081/viatv/viafewatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="864" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/times-tv-hd.png" group-title="HD", Times TV HD
 http://103.41.175.154:8081/viatv/viatimesfallback/playlist.m3u8
-
 #EXTINF:-1 tvg-id="820" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/moon-light-hd_5f8836504f848.png" group-title="HD", Moon Light HD
 http://103.41.175.154:8081/viatv/viaMoonLightHD.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="670" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/namaste-tv-hd_5e8070e7a378e.png" group-title="HD", Namaste TV HD
 http://103.41.175.154:8081/viatv/vianamaste/playlist.m3u8
-
 #EXTINF:-1 tvg-id="673" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/buddha-tv_5e80526e02170.png" group-title="HD", Buddha TV HD
 http://103.41.175.154:8081/viatv/viabuddhatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="821" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/tv-1-hd_5e808ee3998c6.png" group-title="HD", TV 1 HD
 http://103.41.175.154:8081/viatv/viatv1hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="938" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/lumbini-tv-hd.jpg" group-title="HD", Lumbini TV HD
 http://103.41.175.154:8081/viatv/viaLumbiniTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="818" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/buddha-awaaz-tv-hd_5e805260bf3cd.png" group-title="HD", Buddha Awaaz TV HD
 http://103.41.175.154:8081/viatv/viaBuddhaAawaz.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1025" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/suryadaya-tv-hd.png" group-title="HD", Suryadaya TV HD
 http://103.41.175.154:8081/viatv/viaSuryadayaTv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1030" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/aamnepali-tv-hd.jpg" group-title="HD", Aamnepali TV HD
 http://103.41.175.154:8081/viatv/viaAamNepaliTv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/prabhu-tv.jpg" group-title="HD", Prabhu TV
 http://103.41.175.154:8081/viatv/viaPrabhuTv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="937" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/akash-tv-hd.png" group-title="HD", Akash TV HD
 http://103.41.175.154:8081/viatv/viaAakshTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="950" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/red-tv_5f4a48c23b807.jpg" group-title="HD", Red TV HD
 http://103.41.175.154:8081/viatv/viaRedTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="959" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/gorkha-tv.jpg" group-title="HD", Gorkha TV
 http://103.41.175.154:8081/viatv/viaGorkhaTV.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1044" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/tilottama-tv-hd.jpg" group-title="HD", Tilottama TV HD
 http://103.41.175.154:8081/viatv/viaTilotamaTV,stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1050" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/city-one-hd.jpg" group-title="HD", CITY ONE HD
 http://103.41.175.154:8081/viatv/viaCity1hd.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="837" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/al-jazeera-hd-test_5e6da5cd078e2.png" group-title="HD", Al Jazeera HD
 http://103.41.175.154:8081/viatv/viaaljazeera/playlist.m3u8
-
 #EXTINF:-1 tvg-id="856" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/trt-world-hd_5e808e8ca6f57.png" group-title="HD", TRT WORLD HD
 http://103.41.175.154:8081/viatv/viatrtworldhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1103" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/france-24-english-hd.png" group-title="HD", France 24 English HD
 http://103.41.175.154:8081/viatv/viafrance24/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1019" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/cgtn-hd.png" group-title="HD", CGTN HD
 http://103.41.175.154:8081/viatv/viacgtnhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1015" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/sony-entertainment-hd.png" group-title="HD", Sony Entertainment HD
 http://103.41.175.154:8081/viatv/viasonyhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="985" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/colors-hd.png" group-title="HD", Colors HD
 http://103.41.175.154:8081/viatv/viacolors/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/zee-tv-hd.png" group-title="HD", Zee TV HD
 http://103.41.175.154:8081/viatv/viazeetvhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1056" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-plus-hd.jpeg" group-title="HD", Star Plus HD
 http://103.41.175.154:8081/viatv/viastarplushhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="310" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/tv-hd_5e804d5fcacf6.png" group-title="HD", & TV HD
 http://103.41.175.154:8081/viatv/viaandtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="884" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-bharat-hd_5e808dcaa9e20.png" group-title="HD", Star Bharat HD
 http://103.41.175.154:8081/viatv/vialifeokhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="352" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/zee-cafe-hd_5e80927167728.png" group-title="HD", Zee Cafe HD
 http://103.41.175.154:8081/viatv/viazeecafehd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1111" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/colors-infinity-hd.jpg" group-title="HD", COLORS INFINITY HD
 http://103.41.175.154:8081/viatv/viainfinityhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="994" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/hbo-signature-hd.png" group-title="HD", HBO Signature HD
 http://103.41.175.154:8081/viatv/viahbosignature/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1063" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/hbo-family-hd.png" group-title="HD", HBO Family HD
 http://103.41.175.154:8081/viatv/viahbofamily/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1064" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/hbo-hits-hd.png" group-title="HD", HBO Hits HD
 http://103.41.175.154:8081/viatv/viahbohits_high/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1095" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/cinemax-hd.jpg" group-title="HD", CINEMAX HD
 http://103.41.175.154:8081/viatv/viacinemaxhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1096" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-movies-hd.jpg" group-title="HD", Star Movies HD
 http://103.41.175.154:8081/viatv/viaStarMoviesHd.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1097" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-movies-select-hd.jpg" group-title="HD", Star Movies Select HD
 http://103.41.175.154:8081/viatv/viaStarMovSelectHd.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1088" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/sony-max-hd.png" group-title="HD", Sony Max HD
 http://103.41.175.154:8081/viatv/viasonymaxhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1066" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/colors-cineplex-hd.png" group-title="HD", Colors Cineplex HD
 http://103.41.175.154:8081/viatv/viacineplexhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="341" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/-pictures-hd.png" group-title="HD", & Pictures HD
 http://103.41.175.154:8081/viatv/viaandpicture/playlist.m3u8
-
 #EXTINF:-1 tvg-id="698" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-gold-hd_5e80864a7e987.png" group-title="HD", Star Gold HD
 http://103.41.175.154:8081/viatv/viastargoldhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="655" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/zee-cinema-hd_5e809293ee67b.png" group-title="HD", ZEE CINEMA HD
 http://103.41.175.154:8081/viatv/viazeecinemahd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="699" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-gold-select-hd_5e80865a39c46.png" group-title="HD", Star Gold Select HD
 http://103.41.175.154:8081/viatv/viastargoldselecthd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="313" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/lotus-macau-hd_5e806d560ca76.png" group-title="HD", Lotus Macau HD
 http://103.41.175.154:8081/viatv/vialotusmacau/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1067" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/sony-sports-ten-1-hd.png" group-title="HD", Sony Sports Ten 1 HD
 http://103.41.175.154:8081/viatv/viaten1hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="995" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/sony-sports-ten-2-hd.png" group-title="HD", Sony Sports Ten 2 HD
 http://103.41.175.154:8081/livesports/Ten2HD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="472" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/sony-sports-ten-3-hd.png" group-title="HD", Sony Sports Ten 3 HD
 http://103.41.175.154:8081/viatv/viaten3hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="733" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/sony-sports-ten-5-hd.png" group-title="HD", Sony Sports Ten 5 HD
 http://103.41.175.154:8081/viatv/viasixhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="731" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-sport-1-hd.png" group-title="HD", Star Sport 1 HD
 http://103.41.175.154:8081/viatv/viastarsports1hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="732" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-sport-2-hd.png" group-title="HD", Star Sport 2 HD
 http://103.41.175.154:8081/viatv/viastarsports2hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="734" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-sports-1-hd-hindi_5e808b2f6e2f9.png" group-title="HD", Star Sports 1 HD Hindi
 http://103.41.175.154:8081/viatv/viastarsports3hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="630" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-sports-select-1-hd_5e808c34c1bc9.png" group-title="HD", Star Sports Select 1 HD
 http://103.41.175.154:8081/viatv/viaselecthd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="877" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-sports-select-2-hd_5e808cb97fe5c.png" group-title="HD", Star Sports Select 2 HD
 http://103.41.175.154:8081/viatv/viaselecthd2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1068" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/star-sports-1hd_6174dfed937d5.png" group-title="HD", Star Sports 1
 http://103.41.175.154:8081/viatv/viastarsports1sd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1071" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/action-sports-hd.jpg" group-title="HD", ACTION SPORTS HD
 http://103.41.175.154:8081/viatv/viaactionsportshd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="740" tvg-logo="https://dashboard.viatv.com.np/images/channel_logos/j-music-hd_5e806cb749d37.png" group-title="HD", J Music HD
 http://103.41.175.154:8081/viatv/viajmusic/playlist.m3u8
 
